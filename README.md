@@ -3,8 +3,6 @@ Gaussian Kernel Non-Parametric Regression combined with K-means clustering and C
 
 The code for reading _netcdf_ files also included.
 
-**Note**: use _varphi-cli.py_ for command window-like experience. For "one-time" running/processing, simply use the _varphi-2018.py_  
-
 Contributors:
 1. Irwansyah
 2. Mustika Hadijati
